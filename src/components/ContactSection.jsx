@@ -21,7 +21,7 @@ const ContactSection = () => {
                     <div className="contact-card">
                         <h3>Linkedln</h3>
                         <p>
-                            <a href = "https://www.linkedin.com/in/priyanshi-sugandhi" target='_blank'>
+                            <a href = "https://www.linkedin.com/in/priyanshi-sugandhi" target='_blank'  rel="noopener noreferrer">
                                 linkedin.com/in/priyanshisugandhi
                             </a>
                         </p>

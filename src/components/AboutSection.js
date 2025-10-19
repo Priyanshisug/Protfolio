@@ -21,7 +21,7 @@ const AboutSection = () => {
 
             <div className="about-buttons">
               <a href="#contact" className="btn-primary">Get In Touch</a>
-              <a href="https://drive.google.com/file/d/1-hTMr0PnXQPo4qsS2Q44RhcDCND18mJp/view?usp=sharing" className="btn-outline" target = "_blank">Download CV</a>
+              <a href="https://drive.google.com/file/d/1-hTMr0PnXQPo4qsS2Q44RhcDCND18mJp/view?usp=sharing" className="btn-outline" target = "_blank"  rel="noopener noreferrer">Download CV</a>
             </div>
           </div>
 

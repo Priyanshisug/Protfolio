@@ -37,7 +37,7 @@ const ProjectSection = () => {
                 <img src={project.image} alt ={project.title} className="project-image" />
                 <h3 className="project-title">{project.title}</h3>
                 <p className="project-description">{project.description}</p>
-                <a href={project.github} target = "_blank"  className="project-link">View on Github</a>
+                <a href={project.github} target = "_blank"  className="project-link" rel="noopener noreferrer">View on Github</a>
                 </div>
              ))}
             </div>
